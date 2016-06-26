@@ -1,1 +1,1 @@
-# techeventlist.github.io
+# techconfs.github.io
